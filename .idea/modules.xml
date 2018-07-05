@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Gradle.iml" filepath="$PROJECT_DIR$/Gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zcwl/zcwl.iml" filepath="$PROJECT_DIR$/zcwl/zcwl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zcwl_main.iml" filepath="$PROJECT_DIR$/.idea/modules/zcwl_main.iml" group="zcwl" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zcwl_test.iml" filepath="$PROJECT_DIR$/.idea/modules/zcwl_test.iml" group="zcwl" />
+    </modules>
+  </component>
+</project>
